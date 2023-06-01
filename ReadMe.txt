@@ -1,9 +1,6 @@
-Zuhayr Amin - 2455426
-Liban Gudhane - 2406064
-
 This ReadMe file is to help execute the code used to generate a shortest path graph and the costs of the Breadth-First Search and Uniform-Cost Search on the path.
 
-In order to generate the Shortest Path Graph use the following line to execute, after moving to the appropriate directory:
+In order to generate the Shortest Path Graph, use the following line to execute, after moving to the appropriate directory:
 
 >>python3 as1.py spg
 
